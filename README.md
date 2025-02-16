@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm buchananwayofbfwne287
 
-<!--
-**buchananwayofbfwne287/buchananwayofbfwne287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 🛼 A professional in system programming 🎮 🛼
 
-Here are some ideas to get you started:
+## About Me
+🥊 🏊 🏊 🏄 Interested in design thinking 🥊 🏊 🏊 🏄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+💻 🏊 🎬 Always learning about natural language processing 💻 🏊 🎬
+
+### Fun Facts
+🎪 🏄 🎭 A student of programming languages 🎪 🏄 🎭
+
+---
+🌈 🎮 🔥 🛼 🥊 Thanks for visiting my profile! 🎬 🚣 🚵 🎣 🎮
